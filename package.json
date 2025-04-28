@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "framer-motion": "^12.9.2",
     "gsap": "^3.12.7",
     "html2pdf.js": "^0.10.3",
     "next": "15.3.0",
